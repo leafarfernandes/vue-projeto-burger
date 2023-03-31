@@ -1,19 +1,3 @@
-# projetovue-burguer
+# Projeto Vue.js - Pedidos de Hamburgers
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Este é o meu primeiro projeto utilizando Vue.js, no curso realizado pelo Matheus Battisti.
